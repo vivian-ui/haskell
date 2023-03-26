@@ -1,5 +1,6 @@
 # haskell
 Exercícios da disciplina Haskell
+Integrantes: Vivian da Cunha e Laryssa Lisboa - Sistemas para Internet | 6 ciclo.
 
 ## CAPÍTULO 02:
 ##### Exercício 02: Crie uma função que verifique se o tamanho de uma String é par ou não. Use Bool como retorno.
